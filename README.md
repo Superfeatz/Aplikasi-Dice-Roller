@@ -39,3 +39,6 @@ Dice Roller App adalah aplikasi Android sederhana yang dibuat menggunakan Jetpac
 3. Jalankan aplikasi pada emulator atau perangkat fisik.
 4. Tekan tombol "Roll" untuk me-roll dadu.
 
+## Demo Aplikasi
+
+[![Dice Roller App Demo](https://img.youtube.com/vi/hX24b9j2l4w/0.jpg)](https://youtube.com/shorts/hX24b9j2l4w)
